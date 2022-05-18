@@ -1,0 +1,21 @@
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\bin\Debug\Pacman_v2.exe.config
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\bin\Debug\Pacman_v2.exe
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\bin\Debug\Pacman_v2.pdb
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.csprojAssemblyReference.cache
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.Form1.resources
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.Properties.Resources.resources
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.csproj.GenerateResource.cache
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.csproj.CoreCompileInputs.cache
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.exe
+C:\Users\rohan\source\repos\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.pdb
+E:\my game code\Pacman_v2\Pacman_v2\bin\Debug\Pacman_v2.exe.config
+E:\my game code\Pacman_v2\Pacman_v2\bin\Debug\Pacman_v2.exe
+E:\my game code\Pacman_v2\Pacman_v2\bin\Debug\Pacman_v2.pdb
+E:\my game code\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.csproj.AssemblyReference.cache
+E:\my game code\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.csproj.SuggestedBindingRedirects.cache
+E:\my game code\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.Form1.resources
+E:\my game code\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.Properties.Resources.resources
+E:\my game code\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.csproj.GenerateResource.cache
+E:\my game code\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.csproj.CoreCompileInputs.cache
+E:\my game code\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.exe
+E:\my game code\Pacman_v2\Pacman_v2\obj\Debug\Pacman_v2.pdb
